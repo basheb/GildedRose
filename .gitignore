@@ -1,0 +1,48 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vscode/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.DS_Store
+*.sln.metaproj
+*.csproj.metaproj
+*.tmp
+*.vscode/
+
+# Ignore build output directories
+bin/
+obj/
+out/
+
+# Ignore packages folder (useful if you don't use NuGet Package Restore)
+packages/
+!.nuget/
+
+# Ignore test result files
+TestResults/
+*.trx
+*.coverage
+
+# Ignore build logs
+*.log
+
+# Ignore application logs
+*.log
+*.tlog
+
+# Ignore publish output
+publish/
+app.publish/
+
+# Ignore user-specific files
+*.rsuser
+*.sln.docstates
+*.userprefs
+
+# I
